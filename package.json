@@ -69,7 +69,7 @@
     "@angular/common": "11.1.0-next.1",
     "@angular/compiler": "11.1.0-next.1",
     "@angular/compiler-cli": "11.1.0-next.1",
-    "@angular/core": "11.1.0-next.1",
+    "@angular/core": "11.1.0-next.3",
     "@angular/dev-infra-private": "https://github.com/angular/dev-infra-private-builds.git#8296e90eaa0b4172d3fd60ef0288bb5b33c99dc0",
     "@angular/forms": "11.1.0-next.1",
     "@angular/localize": "11.1.0-next.1",
